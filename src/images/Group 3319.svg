@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="56" viewBox="0 0 36 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #efd104;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #efd104;
+      }
+
+      .cls-3 {
+        fill: #2c2c2c;
+        font-size: 18px;
+        font-family: Poppins-Regular, Poppins;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_3319" data-name="Group 3319" transform="translate(-1325 -572)">
+    <g id="Group_46" data-name="Group 46" transform="translate(0 -7)">
+      <g id="Ellipse_17" data-name="Ellipse 17" class="cls-1" transform="translate(1325 579)">
+        <circle class="cls-4" cx="18" cy="18" r="18"/>
+        <circle class="cls-5" cx="18" cy="18" r="17"/>
+      </g>
+      <path id="Union_1" data-name="Union 1" class="cls-2" d="M-2132,14h5l-2.5,4Zm0,0V0h5V14Z" transform="translate(3473 617)"/>
+    </g>
+    <text id="A" class="cls-3" transform="translate(1337 595)"><tspan x="0" y="0">A</tspan></text>
+  </g>
+</svg>
