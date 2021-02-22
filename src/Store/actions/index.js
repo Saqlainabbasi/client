@@ -107,6 +107,9 @@ export const checkCabRule = ({ startPoint, endPoint, route }) => {
                 })
             }
         })
+            .catch(err => {
+                console.log(err)
+            })
     }
 
 
